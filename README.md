@@ -1,0 +1,2 @@
+# Analysing the effect of vaccination and total tests on total cases on worldwide panel data using Fixed effects model in Stata
+ Fixed effects model is done with general variables and interaction to understand the effect of vaccination and total tests on total cases. In results, we have observed that totaltestsperpopulation and population density interaction term has significant effect on total cases
